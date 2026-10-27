@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
+
+# Secrets
+.env
+
+# Generated data
+data/chroma/
+eval/.ragas_cache/
+eval/report_*.md
+eval/results_*.json
+
+# PDFs: only the (fictional) demo documents are versioned
+data/pdfs/*
+!data/pdfs/.gitkeep
+!data/pdfs/guide_securite_si_datanova.pdf
+!data/pdfs/rapport_annuel_2025_agence_eau_zitoune.pdf
+!data/pdfs/reglement_amenagement_ain_zitoune.pdf
+
+# Editors / OS
+.vscode/
+.idea/
+.claude/
+Thumbs.db
+.DS_Store

@@ -1,0 +1,170 @@
+[
+  {
+    "id": "q01",
+    "question": "Quelle est la hauteur maximale des constructions dans le secteur A4 ?",
+    "expected_answer": "18,50 mètres, acrotère compris.",
+    "source": "reglement_amenagement_ain_zitoune.pdf",
+    "page": 2
+  },
+  {
+    "id": "q02",
+    "question": "Quel est le COS maximal du secteur A3 ?",
+    "expected_answer": "2,6.",
+    "source": "reglement_amenagement_ain_zitoune.pdf",
+    "page": 2
+  },
+  {
+    "id": "q03",
+    "question": "Combien de places de stationnement faut-il pour des bureaux en zone A ?",
+    "expected_answer": "1 place pour 60 m2 de surface construite.",
+    "source": "reglement_amenagement_ain_zitoune.pdf",
+    "page": 2
+  },
+  {
+    "id": "q04",
+    "question": "Quelle est la surface minimale d'une parcelle pour une villa isolée ?",
+    "expected_answer": "500 m2 (secteur V1).",
+    "source": "reglement_amenagement_ain_zitoune.pdf",
+    "page": 3
+  },
+  {
+    "id": "q05",
+    "question": "Quels reculs une villa doit-elle respecter ?",
+    "expected_answer": "5 m par rapport à la voie, 4 m par rapport aux limites séparatives et au fond de parcelle.",
+    "source": "reglement_amenagement_ain_zitoune.pdf",
+    "page": 3
+  },
+  {
+    "id": "q06",
+    "question": "Quelle est la largeur de la bande non constructible le long de l'oued ?",
+    "expected_answer": "30 mètres de part et d'autre de l'oued.",
+    "source": "reglement_amenagement_ain_zitoune.pdf",
+    "page": 4
+  },
+  {
+    "id": "q07",
+    "question": "Quel pourcentage d'un lotissement doit être réservé aux espaces verts ?",
+    "expected_answer": "Au moins 8 % de sa surface, hors voirie et équipements.",
+    "source": "reglement_amenagement_ain_zitoune.pdf",
+    "page": 4
+  },
+  {
+    "id": "q08",
+    "question": "Une adaptation mineure peut-elle augmenter la hauteur maximale ?",
+    "expected_answer": "Oui, mais de 1,00 mètre au maximum.",
+    "source": "reglement_amenagement_ain_zitoune.pdf",
+    "page": 1
+  },
+  {
+    "id": "q09",
+    "question": "Quelle est la longueur minimale d'un mot de passe administrateur ?",
+    "expected_answer": "16 caractères.",
+    "source": "guide_securite_si_datanova.pdf",
+    "page": 1
+  },
+  {
+    "id": "q10",
+    "question": "Dans quel délai faut-il désactiver le compte d'un collaborateur parti ?",
+    "expected_answer": "Au plus tard 24 heures après son départ.",
+    "source": "guide_securite_si_datanova.pdf",
+    "page": 1
+  },
+  {
+    "id": "q11",
+    "question": "Sous quel délai les correctifs critiques sont-ils appliqués sur les serveurs exposés à Internet ?",
+    "expected_answer": "Sous 7 jours.",
+    "source": "guide_securite_si_datanova.pdf",
+    "page": 2
+  },
+  {
+    "id": "q12",
+    "question": "Quels sont le RTO et le RPO des applications critiques ?",
+    "expected_answer": "RTO de 8 heures et RPO de 4 heures.",
+    "source": "guide_securite_si_datanova.pdf",
+    "page": 2
+  },
+  {
+    "id": "q13",
+    "question": "Combien de temps sont conservées les sauvegardes de la messagerie ?",
+    "expected_answer": "1 an.",
+    "source": "guide_securite_si_datanova.pdf",
+    "page": 2
+  },
+  {
+    "id": "q14",
+    "question": "Dans quel délai faut-il signaler un incident de sécurité ?",
+    "expected_answer": "Dans un délai d'une heure.",
+    "source": "guide_securite_si_datanova.pdf",
+    "page": 3
+  },
+  {
+    "id": "q15",
+    "question": "Quel était le rendement des réseaux en 2025 ?",
+    "expected_answer": "74 % (contre 71 % en 2024).",
+    "source": "rapport_annuel_2025_agence_eau_zitoune.pdf",
+    "page": 1
+  },
+  {
+    "id": "q16",
+    "question": "Quel est le montant total des investissements en 2025 ?",
+    "expected_answer": "1,94 milliard de dirhams, soit 92 % du budget prévu.",
+    "source": "rapport_annuel_2025_agence_eau_zitoune.pdf",
+    "page": 2
+  },
+  {
+    "id": "q17",
+    "question": "Quelle part des investissements est allée à la station de dessalement ?",
+    "expected_answer": "820 millions de dirhams, soit 42 % du total.",
+    "source": "rapport_annuel_2025_agence_eau_zitoune.pdf",
+    "page": 2
+  },
+  {
+    "id": "q18",
+    "question": "Quel est le taux de remplissage du barrage d'Oued Lmal au 31/12/2025 ?",
+    "expected_answer": "31 %.",
+    "source": "rapport_annuel_2025_agence_eau_zitoune.pdf",
+    "page": 2
+  },
+  {
+    "id": "q19",
+    "question": "Quel est le taux de conformité de l'eau distribuée ?",
+    "expected_answer": "99,6 %.",
+    "source": "rapport_annuel_2025_agence_eau_zitoune.pdf",
+    "page": 3
+  },
+  {
+    "id": "q20",
+    "question": "Quel rendement des réseaux l'Agence vise-t-elle pour 2026 ?",
+    "expected_answer": "77 %.",
+    "source": "rapport_annuel_2025_agence_eau_zitoune.pdf",
+    "page": 3
+  },
+  {
+    "id": "q21",
+    "question": "Quelle est la hauteur maximale en zone V, et quelle hauteur de clôture est autorisée sur voie ?",
+    "expected_answer": "8,50 m (R+1) ; clôture de 1,20 m de maçonnerie pleine, 2,20 m au total avec grille.",
+    "source": "reglement_amenagement_ain_zitoune.pdf",
+    "page": 3
+  },
+  {
+    "id": "q22",
+    "question": "Quel est le prix du mètre carré constructible à Aïn Zitoune ?",
+    "expected_answer": "SANS_REPONSE",
+    "source": null,
+    "page": null
+  },
+  {
+    "id": "q23",
+    "question": "Combien de jours de télétravail par semaine sont autorisés chez DataNova ?",
+    "expected_answer": "SANS_REPONSE",
+    "source": null,
+    "page": null
+  },
+  {
+    "id": "q24",
+    "question": "Qui est le directeur de l'Agence régionale de l'eau de Zitoune ?",
+    "expected_answer": "SANS_REPONSE",
+    "source": null,
+    "page": null
+  }
+]
